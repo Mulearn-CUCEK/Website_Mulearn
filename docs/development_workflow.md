@@ -71,8 +71,3 @@ main
 Production Deployment
 ```
 
-## Our Goal
-
-Build collaboratively, review carefully, and deploy confidently.
-
-> Remember: `dev` is for development and testing, while `main` is for stable, production-ready releases.
