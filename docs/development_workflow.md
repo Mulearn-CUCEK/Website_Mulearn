@@ -38,7 +38,7 @@ Examples:
 5. Commit your changes with a meaningful message.
 6. Push your feature branch to GitHub.
 7. Open a Pull Request (PR) targeting `dev`.
-8. Wait for code review and approval.
+8. Wait for code review and approval ( if needed ).
 9. Test the changes after merging into `dev`.
 10. Once `dev` is stable, maintainers open a PR from `dev` to `main`.
 11. After approval and merging, deploy the updated `main` branch.
